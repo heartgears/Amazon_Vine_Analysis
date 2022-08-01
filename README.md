@@ -15,6 +15,6 @@ The main results of the analysis are as follows:
 **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 
 ![Deliverable_2.3_Screenshot](https://github.com/heartgears/Amazon_Vine_Analysis/blob/main/Screenshots/percentages.png)
 
-#Summary: 
+# Summary: 
 
-Based particularly on the results of 2.3, there is a positivity bias for the reviews. 39% of product reviews on Amazon are positive, compared to 51% for the Amazon Vine reviews.
+Based particularly on the results of 2.3, there is a positivity bias for the Amazon Vine reviews. 39% of product reviews on Amazon are positive, compared to 51% for the Amazon Vine reviews. Another analysis that could be conducted to support this would be to evaluate the /negative/ reviews, and see if there are a lower percentage of one star reviews for Vine products than overall. However, the dataset for Vine reviews is very small, which may make this sample unrepresentative of the whole. Additional analyses on other Vine datasets should be conducted to confirm the results of this particular analysis.  
